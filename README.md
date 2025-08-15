@@ -33,7 +33,10 @@ O sistema foi projetado para ser **responsivo, seguro e de fácil uso**, oferece
 
 ## 🖼️ Demonstração
 
-> (Adicione prints ou GIFs do painel aqui para destacar a usabilidade e design).
+ 
+<img width="1393" height="817" alt="Captura de ecrã de 2025-08-15 18-37-56" src="https://github.com/user-attachments/assets/fe32716a-258e-421d-a6eb-6375068d8fb9" />
+<img width="1824" height="869" alt="Captura de ecrã de 2025-08-15 18-40-13" src="https://github.com/user-attachments/assets/2f836251-af81-47c2-8f51-159a764e958c" />
+<img width="1805" height="479" alt="Captura de ecrã de 2025-08-15 18-41-37" src="https://github.com/user-attachments/assets/bae78387-eb17-498b-b4d5-3a378c95526e" />
 
 ---
 
